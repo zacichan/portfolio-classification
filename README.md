@@ -1,5 +1,6 @@
 # Portfolio classification methodology
 
+THIS IS A REPO TO TEST THE UKRI SENTENCE TRANSFORMERS PIPELINE
 
 
 ## Summary
